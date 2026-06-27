@@ -1,0 +1,201 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum CompensationType {
+  Fixed
+  Hourly
+  Range
+  Negotiable
+}
+
+enum OpportunityStatus {
+  Active
+  Upcoming
+  Filled
+}
+
+model State {
+  id           String   @id @default(uuid())
+  name         String
+  slug         String   @unique
+  abbreviation String   @unique
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  cities        City[]
+  opportunities Opportunity[]
+
+  @@index([slug])
+  @@index([name])
+  @@map("states")
+}
+
+model City {
+  id        String   @id @default(uuid())
+  stateId   String
+  name      String
+  slug      String   @unique
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  state         State         @relation(fields: [stateId], references: [id])
+  opportunities Opportunity[]
+
+  @@index([slug])
+  @@index([stateId])
+  @@index([name])
+  @@map("cities")
+}
+
+model Category {
+  id          String   @id @default(uuid())
+  name        String
+  slug        String   @unique
+  icon        String   @default("FlaskConical")
+  description String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  opportunities Opportunity[]
+  guides        Guide[]
+
+  @@index([slug])
+  @@index([name])
+  @@map("categories")
+}
+
+model Company {
+  id          String   @id @default(uuid())
+  name        String
+  slug        String   @unique
+  logo        String?
+  website     String?
+  description String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  opportunities Opportunity[]
+
+  @@index([slug])
+  @@index([name])
+  @@map("companies")
+}
+
+model StudyType {
+  id        String   @id @default(uuid())
+  name      String
+  slug      String   @unique
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  opportunities Opportunity[]
+
+  @@index([slug])
+  @@map("study_types")
+}
+
+model Opportunity {
+  id                String             @id @default(uuid())
+  title             String
+  slug              String             @unique
+  shortDescription  String
+  description       String?
+  companyId         String
+  categoryId        String
+  studyTypeId       String
+  stateId           String
+  cityId            String
+  compensation      String
+  compensationType  CompensationType   @default(Fixed)
+  online            Boolean            @default(false)
+  featured          Boolean            @default(false)
+  status            OpportunityStatus  @default(Active)
+  eligibility       String?
+  postedDate        DateTime?
+  createdAt         DateTime           @default(now())
+  updatedAt         DateTime           @updatedAt
+
+  company   Company   @relation(fields: [companyId], references: [id])
+  category  Category  @relation(fields: [categoryId], references: [id])
+  studyType StudyType @relation(fields: [studyTypeId], references: [id])
+  state     State     @relation(fields: [stateId], references: [id])
+  city      City      @relation(fields: [cityId], references: [id])
+
+  faqs  FAQ[]
+  tags  OpportunityTag[]
+
+  @@index([slug])
+  @@index([companyId])
+  @@index([categoryId])
+  @@index([studyTypeId])
+  @@index([stateId])
+  @@index([cityId])
+  @@index([status])
+  @@index([featured])
+  @@index([online])
+  @@index([createdAt])
+  @@map("opportunities")
+}
+
+model Guide {
+  id         String   @id @default(uuid())
+  title      String
+  slug       String   @unique
+  excerpt    String
+  content    String?
+  categoryId String
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  category Category @relation(fields: [categoryId], references: [id])
+
+  @@index([slug])
+  @@index([categoryId])
+  @@map("guides")
+}
+
+model FAQ {
+  id            String   @id @default(uuid())
+  opportunityId String?
+  question      String
+  answer        String
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  opportunity Opportunity? @relation(fields: [opportunityId], references: [id])
+
+  @@index([opportunityId])
+  @@map("faqs")
+}
+
+model Tag {
+  id        String   @id @default(uuid())
+  name      String
+  slug      String   @unique
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  opportunities OpportunityTag[]
+
+  @@index([slug])
+  @@index([name])
+  @@map("tags")
+}
+
+model OpportunityTag {
+  opportunityId String
+  tagId         String
+
+  opportunity Opportunity @relation(fields: [opportunityId], references: [id], onDelete: Cascade)
+  tag         Tag         @relation(fields: [tagId], references: [id], onDelete: Cascade)
+
+  @@id([opportunityId, tagId])
+  @@index([tagId])
+  @@map("opportunity_tags")
+}

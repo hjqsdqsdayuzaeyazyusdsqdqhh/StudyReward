@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "question": "How do I sign up for paid research studies?",
+    "answer": "Creating an account is free and takes less than two minutes. Once registered, you can browse available studies, filter by location or category, and apply directly from the study detail page. Most studies will ask preliminary screening questions to determine your eligibility before scheduling.",
+    "category": "Getting Started"
+  },
+  {
+    "id": "2",
+    "question": "Is there any cost to join StudyReward?",
+    "answer": "No. StudyReward is completely free for participants. We never charge fees to browse, apply, or participate in studies listed on our platform. Compensation is paid directly by the research organization conducting the study.",
+    "category": "Getting Started"
+  },
+  {
+    "id": "3",
+    "question": "How much can I earn from paid research studies?",
+    "answer": "Compensation varies widely depending on the study type, duration, and complexity. Online surveys typically pay $5-$50, focus groups pay $75-$200, product testing pays $50-$500, and clinical trials can pay $500-$3,000 or more. Many participants earn several hundred dollars per month by combining multiple studies.",
+    "category": "Compensation"
+  },
+  {
+    "id": "4",
+    "question": "How and when do I get paid?",
+    "answer": "Payment methods vary by study provider. Common options include prepaid debit cards, gift cards, PayPal transfers, and paper checks. Some studies pay immediately after completion, while others may pay within 2-4 weeks. Payment details are always disclosed before you apply.",
+    "category": "Compensation"
+  },
+  {
+    "id": "5",
+    "question": "Are clinical trials safe?",
+    "answer": "All clinical trials in the United States must follow strict federal regulations enforced by the FDA and Institutional Review Boards (IRBs). Before participating, you will go through an informed consent process that explains all potential risks and benefits. You can withdraw from any study at any time without penalty.",
+    "category": "Safety"
+  },
+  {
+    "id": "6",
+    "question": "How do I know if a research study is legitimate?",
+    "answer": "Legitimate research studies are conducted by established organizations with verifiable contact information, physical addresses, and IRB approval numbers. Be wary of studies that ask for upfront payment, sensitive financial information like your Social Security Number, or promise unusually high compensation for minimal effort. Our platform vets all listed organizations before they can post studies.",
+    "category": "Safety"
+  },
+  {
+    "id": "7",
+    "question": "Can I participate in studies if I live outside the United States?",
+    "answer": "Currently, StudyReward primarily lists studies available within the United States. Some online surveys and remote studies may accept international participants. You can filter by 'Remote' studies to find opportunities that may be available regardless of location.",
+    "category": "Eligibility"
+  },
+  {
+    "id": "8",
+    "question": "What are the age requirements for participating?",
+    "answer": "Most studies require participants to be at least 18 years old. Some studies focusing on children, teens, or family dynamics may accept younger participants with parental or guardian consent. Age requirements are clearly listed on each study's detail page.",
+    "category": "Eligibility"
+  },
+  {
+    "id": "9",
+    "question": "How often can I participate in studies?",
+    "answer": "There is no limit on how many studies you can apply for or participate in. However, some studies have exclusion periods that prevent re-participation for a certain timeframe (e.g., 30 days, 6 months) to ensure fresh data. This is typically disclosed in the study details or during screening.",
+    "category": "Eligibility"
+  },
+  {
+    "id": "10",
+    "question": "Do I need to pay taxes on study compensation?",
+    "answer": "In most cases, compensation from research studies is considered taxable income by the IRS. If you earn $600 or more from a single organization in a calendar year, they may issue a Form 1099-NEC. We recommend consulting with a tax professional about your specific situation.",
+    "category": "Compensation"
+  },
+  {
+    "id": "11",
+    "question": "What happens during a focus group?",
+    "answer": "A focus group typically involves 6-10 participants and a trained moderator discussing a specific topic for 1-3 hours. The moderator guides the conversation with open-ended questions, and sessions are often recorded for research purposes. You'll be compensated for your time, and refreshments are usually provided for in-person sessions.",
+    "category": "Study Types"
+  },
+  {
+    "id": "12",
+    "question": "How do mock juries work?",
+    "answer": "Mock juries simulate real courtroom proceedings where you and other participants act as jurors. You'll watch case presentations from attorneys, review evidence, and deliberate to reach a verdict. Your feedback helps legal teams understand how real jurors might perceive their case. Sessions typically last half a day to a full day.",
+    "category": "Study Types"
+  },
+  {
+    "id": "13",
+    "question": "Can I participate remotely, or do I need to visit a facility?",
+    "answer": "Many studies offer remote participation options, including online surveys, virtual focus groups, and at-home product testing. Clinical trials and medical studies typically require in-person visits to research facilities. Each study listing clearly indicates whether it is remote or in-person.",
+    "category": "Study Types"
+  },
+  {
+    "id": "14",
+    "question": "How do I update my profile or preferences?",
+    "answer": "You can update your profile information, notification preferences, and areas of interest at any time from your account settings. This helps us recommend studies that match your profile and location.",
+    "category": "Account"
+  },
+  {
+    "id": "15",
+    "question": "How do I report an issue with a study or provider?",
+    "answer": "If you encounter any issues with a study or provider, please contact our support team through the Help Center. We take participant concerns seriously and will investigate any reports of misleading practices, payment issues, or safety concerns.",
+    "category": "Account"
+  }
+]

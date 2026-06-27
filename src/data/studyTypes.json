@@ -1,0 +1,56 @@
+[
+  {
+    "id": "focus-group",
+    "name": "Focus Group",
+    "slug": "focus-groups",
+    "description": "Moderated group discussions where participants share opinions on products, services, or concepts.",
+    "averageCompensation": "$75 - $200",
+    "averageDuration": "1-3 hours",
+    "deliveryMethod": "In-person or virtual"
+  },
+  {
+    "id": "clinical-trial",
+    "name": "Clinical Trial",
+    "slug": "clinical-trials",
+    "description": "Research studies that test new medical treatments, drugs, or devices in human volunteers.",
+    "averageCompensation": "$500 - $3,000",
+    "averageDuration": "Multiple visits over weeks or months",
+    "deliveryMethod": "In-person at research facility"
+  },
+  {
+    "id": "product-testing",
+    "name": "Product Testing",
+    "slug": "product-testing",
+    "description": "Hands-on evaluation of unreleased products to assess usability, quality, and consumer appeal.",
+    "averageCompensation": "$50 - $500",
+    "averageDuration": "30 minutes to 1 week",
+    "deliveryMethod": "In-person, at-home, or remote"
+  },
+  {
+    "id": "medical-study",
+    "name": "Medical Study",
+    "slug": "medical-studies",
+    "description": "Observational research that collects health data through surveys, exams, or non-invasive procedures.",
+    "averageCompensation": "$100 - $800",
+    "averageDuration": "Single visit to multiple sessions",
+    "deliveryMethod": "In-person or remote"
+  },
+  {
+    "id": "mock-jury",
+    "name": "Mock Jury",
+    "slug": "mock-juries",
+    "description": "Simulated courtroom trials where participants evaluate evidence and deliver verdicts for legal research.",
+    "averageCompensation": "$100 - $400",
+    "averageDuration": "Half-day to full day",
+    "deliveryMethod": "In-person at law firm or facility"
+  },
+  {
+    "id": "survey",
+    "name": "Online Survey",
+    "slug": "online-surveys",
+    "description": "Paid questionnaires completed remotely on various topics including health, consumer habits, and lifestyle.",
+    "averageCompensation": "$5 - $50",
+    "averageDuration": "5-30 minutes",
+    "deliveryMethod": "Online"
+  }
+]

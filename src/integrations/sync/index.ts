@@ -1,0 +1,7 @@
+export { SyncEngine } from "./engine"
+export { ConflictDetector } from "./conflict"
+export type { ConflictResult } from "./conflict"
+export { DuplicateDetector } from "./duplicate"
+export type { DuplicateConfig, DuplicateMatch } from "./duplicate"
+export { ChangeDetector } from "./change"
+export type { ChangeResult } from "./change"

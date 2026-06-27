@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "Clinical Trials",
+    "slug": "clinical-trials",
+    "description": "Paid medical research studies testing new treatments and medications",
+    "icon": "FlaskConical",
+    "count": 1240
+  },
+  {
+    "id": "2",
+    "name": "Focus Groups",
+    "slug": "focus-groups",
+    "description": "Moderated group discussions sharing opinions on products and services",
+    "icon": "Users",
+    "count": 890
+  },
+  {
+    "id": "3",
+    "name": "Product Testing",
+    "slug": "product-testing",
+    "description": "Try new products before they launch and provide feedback",
+    "icon": "Package",
+    "count": 2100
+  },
+  {
+    "id": "4",
+    "name": "Medical Studies",
+    "slug": "medical-studies",
+    "description": "Observational health research and wellness studies",
+    "icon": "HeartPulse",
+    "count": 1560
+  },
+  {
+    "id": "5",
+    "name": "Mock Juries",
+    "slug": "mock-juries",
+    "description": "Participate in simulated court trials and deliberations",
+    "icon": "Scale",
+    "count": 340
+  },
+  {
+    "id": "6",
+    "name": "Online Surveys",
+    "slug": "online-surveys",
+    "description": "Paid questionnaires on various topics from home",
+    "icon": "ClipboardList",
+    "count": 3200
+  },
+  {
+    "id": "7",
+    "name": "Cognitive Studies",
+    "slug": "cognitive-studies",
+    "description": "Brain training, memory, and behavioral research studies",
+    "icon": "Brain",
+    "count": 670
+  },
+  {
+    "id": "8",
+    "name": "Diet & Nutrition",
+    "slug": "diet-nutrition",
+    "description": "Research on dietary habits, supplements, and nutrition",
+    "icon": "Apple",
+    "count": 450
+  }
+]

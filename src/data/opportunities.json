@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1", "title": "Diabetes Management Mobile App Usability Study", "slug": "diabetes-management-app-usability",
+    "category": "Product Testing", "categorySlug": "product-testing",
+    "state": "California", "stateSlug": "california", "city": "San Francisco", "citySlug": "san-francisco",
+    "compensation": "$200", "compensationRange": { "min": 150, "max": 250 },
+    "description": "Help improve a diabetes management app by testing its features and providing feedback on user experience.",
+    "provider": "HealthTech Research Group", "providerSlug": "healthtech-research-group",
+    "type": "product-testing", "status": "active", "featured": true, "isRemote": false,
+    "postedDate": "2026-06-20", "url": "/opportunities/diabetes-management-app-usability"
+  },
+  {
+    "id": "2", "title": "Phase 3 Clinical Trial for Allergy Medication", "slug": "phase-3-allergy-medication-trial",
+    "category": "Clinical Trials", "categorySlug": "clinical-trials",
+    "state": "Texas", "stateSlug": "texas", "city": "Houston", "citySlug": "houston",
+    "compensation": "$1,500", "compensationRange": { "min": 1200, "max": 1800 },
+    "description": "Participate in a Phase 3 clinical trial evaluating a new once-daily allergy medication for seasonal allergies.",
+    "provider": "Southwest Medical Research", "providerSlug": "southwest-medical-research",
+    "type": "clinical-trial", "status": "active", "featured": true, "isRemote": false,
+    "postedDate": "2026-06-18", "url": "/opportunities/phase-3-allergy-medication-trial"
+  },
+  {
+    "id": "3", "title": "Consumer Opinions on Streaming Services", "slug": "streaming-services-focus-group",
+    "category": "Focus Groups", "categorySlug": "focus-groups",
+    "state": "New York", "stateSlug": "new-york", "city": "New York City", "citySlug": "new-york-city",
+    "compensation": "$150", "compensationRange": { "min": 100, "max": 200 },
+    "description": "Share your thoughts on various streaming platforms in a moderated 2-hour focus group session.",
+    "provider": "Market Insights Inc.", "providerSlug": "market-insights-inc",
+    "type": "focus-group", "status": "active", "featured": true, "isRemote": false,
+    "postedDate": "2026-06-15", "url": "/opportunities/streaming-services-focus-group"
+  },
+  {
+    "id": "4", "title": "Cognitive Aging and Memory Research", "slug": "cognitive-aging-memory-study",
+    "category": "Cognitive Studies", "categorySlug": "cognitive-studies",
+    "state": "Illinois", "stateSlug": "illinois", "city": "Chicago", "citySlug": "chicago",
+    "compensation": "$300", "compensationRange": { "min": 250, "max": 350 },
+    "description": "Contribute to research on memory retention and cognitive function in aging adults through computer-based tasks.",
+    "provider": "Northwestern Cognitive Science Lab", "providerSlug": "northwestern-cognitive-science-lab",
+    "type": "medical-study", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-12", "url": "/opportunities/cognitive-aging-memory-study"
+  },
+  {
+    "id": "5", "title": "Mock Jury Trial: Product Liability Case", "slug": "mock-jury-product-liability",
+    "category": "Mock Juries", "categorySlug": "mock-juries",
+    "state": "Florida", "stateSlug": "florida", "city": "Miami", "citySlug": "miami",
+    "compensation": "$250", "compensationRange": { "min": 200, "max": 300 },
+    "description": "Serve as a mock juror in a product liability case and deliberate with fellow participants.",
+    "provider": "Legal Research Associates", "providerSlug": "legal-research-associates",
+    "type": "mock-jury", "status": "upcoming", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-10", "url": "/opportunities/mock-jury-product-liability"
+  },
+  {
+    "id": "6", "title": "National Health and Wellness Survey", "slug": "national-health-wellness-survey",
+    "category": "Online Surveys", "categorySlug": "online-surveys",
+    "state": "Remote", "stateSlug": "remote", "city": "Remote", "citySlug": "remote",
+    "compensation": "$25", "compensationRange": { "min": 15, "max": 35 },
+    "description": "Complete a 20-minute online survey about your health habits and wellness routines.",
+    "provider": "National Health Research Institute", "providerSlug": "national-health-research-institute",
+    "type": "survey", "status": "active", "featured": false, "isRemote": true,
+    "postedDate": "2026-06-08", "url": "/opportunities/national-health-wellness-survey"
+  },
+  {
+    "id": "7", "title": "New Snack Product Taste Test", "slug": "snack-product-taste-test",
+    "category": "Product Testing", "categorySlug": "product-testing",
+    "state": "California", "stateSlug": "california", "city": "Los Angeles", "citySlug": "los-angeles",
+    "compensation": "$75", "compensationRange": { "min": 50, "max": 100 },
+    "description": "Sample and evaluate three new snack prototypes in a one-hour taste-testing session.",
+    "provider": "Consumer Insights Lab", "providerSlug": "consumer-insights-lab",
+    "type": "product-testing", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-05", "url": "/opportunities/snack-product-taste-test"
+  },
+  {
+    "id": "8", "title": "Cardiovascular Health and Exercise Study", "slug": "cardiovascular-health-exercise",
+    "category": "Medical Studies", "categorySlug": "medical-studies",
+    "state": "Colorado", "stateSlug": "colorado", "city": "Denver", "citySlug": "denver",
+    "compensation": "$800", "compensationRange": { "min": 600, "max": 1000 },
+    "description": "A 4-week study examining the effects of aerobic exercise on cardiovascular biomarkers.",
+    "provider": "Denver Health Research Center", "providerSlug": "denver-health-research-center",
+    "type": "medical-study", "status": "active", "featured": true, "isRemote": false,
+    "postedDate": "2026-06-01", "url": "/opportunities/cardiovascular-health-exercise"
+  },
+  {
+    "id": "9", "title": "Teen Focus Group: Social Media Habits", "slug": "teen-social-media-focus-group",
+    "category": "Focus Groups", "categorySlug": "focus-groups",
+    "state": "Georgia", "stateSlug": "georgia", "city": "Atlanta", "citySlug": "atlanta",
+    "compensation": "$100", "compensationRange": { "min": 75, "max": 125 },
+    "description": "Discuss social media usage patterns and preferences in a group setting with peers.",
+    "provider": "Youth Research Collective", "providerSlug": "youth-research-collective",
+    "type": "focus-group", "status": "filled", "featured": false, "isRemote": false,
+    "postedDate": "2026-05-28", "url": "/opportunities/teen-social-media-focus-group"
+  },
+  {
+    "id": "10", "title": "Vitamin D Supplement Efficacy Trial", "slug": "vitamin-d-supplement-trial",
+    "category": "Diet & Nutrition", "categorySlug": "diet-nutrition",
+    "state": "Oregon", "stateSlug": "oregon", "city": "Portland", "citySlug": "portland",
+    "compensation": "$600", "compensationRange": { "min": 500, "max": 700 },
+    "description": "A 12-week study evaluating the effectiveness of a new vitamin D supplement formulation.",
+    "provider": "Pacific Northwest Nutrition Research", "providerSlug": "pacific-northwest-nutrition-research",
+    "type": "clinical-trial", "status": "upcoming", "featured": false, "isRemote": false,
+    "postedDate": "2026-05-25", "url": "/opportunities/vitamin-d-supplement-trial"
+  },
+  {
+    "id": "11", "title": "Smart Home Device Usability Study", "slug": "smart-home-device-usability",
+    "category": "Product Testing", "categorySlug": "product-testing",
+    "state": "Texas", "stateSlug": "texas", "city": "Austin", "citySlug": "austin",
+    "compensation": "$350", "compensationRange": { "min": 300, "max": 400 },
+    "description": "Test a new smart home hub and provide feedback on setup process, voice commands, and overall user experience.",
+    "provider": "Consumer Insights Lab", "providerSlug": "consumer-insights-lab",
+    "type": "product-testing", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-22", "url": "/opportunities/smart-home-device-usability"
+  },
+  {
+    "id": "12", "title": "Remote Focus Group: Financial Planning Habits", "slug": "remote-financial-planning-focus-group",
+    "category": "Focus Groups", "categorySlug": "focus-groups",
+    "state": "Remote", "stateSlug": "remote", "city": "Remote", "citySlug": "remote",
+    "compensation": "$125", "compensationRange": { "min": 100, "max": 150 },
+    "description": "Join a virtual focus group discussing financial planning tools, budgeting apps, and investment preferences.",
+    "provider": "Market Insights Inc.", "providerSlug": "market-insights-inc",
+    "type": "focus-group", "status": "active", "featured": false, "isRemote": true,
+    "postedDate": "2026-06-21", "url": "/opportunities/remote-financial-planning-focus-group"
+  },
+  {
+    "id": "13", "title": "Phase 2 Trial: Novel Antidepressant", "slug": "phase-2-novel-antidepressant",
+    "category": "Clinical Trials", "categorySlug": "clinical-trials",
+    "state": "Massachusetts", "stateSlug": "massachusetts", "city": "Boston", "citySlug": "boston",
+    "compensation": "$2,000", "compensationRange": { "min": 1500, "max": 2500 },
+    "description": "An 8-week Phase 2 clinical trial investigating a novel antidepressant with a unique mechanism of action.",
+    "provider": "Pinnacle Research Group", "providerSlug": "pinnacle-research-group",
+    "type": "clinical-trial", "status": "active", "featured": true, "isRemote": false,
+    "postedDate": "2026-06-19", "url": "/opportunities/phase-2-novel-antidepressant"
+  },
+  {
+    "id": "14", "title": "Online Survey: Streaming Content Preferences", "slug": "survey-streaming-preferences",
+    "category": "Online Surveys", "categorySlug": "online-surveys",
+    "state": "Remote", "stateSlug": "remote", "city": "Remote", "citySlug": "remote",
+    "compensation": "$15", "compensationRange": { "min": 10, "max": 20 },
+    "description": "A 10-minute survey about your TV show and movie preferences across streaming platforms.",
+    "provider": "OpinionLab", "providerSlug": "opinionlab",
+    "type": "survey", "status": "active", "featured": false, "isRemote": true,
+    "postedDate": "2026-06-17", "url": "/opportunities/survey-streaming-preferences"
+  },
+  {
+    "id": "15", "title": "Mock Jury: Medical Malpractice Case", "slug": "mock-jury-medical-malpractice",
+    "category": "Mock Juries", "categorySlug": "mock-juries",
+    "state": "California", "stateSlug": "california", "city": "Los Angeles", "citySlug": "los-angeles",
+    "compensation": "$300", "compensationRange": { "min": 250, "max": 350 },
+    "description": "Serve as a mock juror in a medical malpractice case. Full-day session with catered lunch.",
+    "provider": "Legal Research Associates", "providerSlug": "legal-research-associates",
+    "type": "mock-jury", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-16", "url": "/opportunities/mock-jury-medical-malpractice"
+  },
+  {
+    "id": "16", "title": "Wearable Fitness Tracker Accuracy Study", "slug": "wearable-fitness-tracker-accuracy",
+    "category": "Product Testing", "categorySlug": "product-testing",
+    "state": "California", "stateSlug": "california", "city": "San Diego", "citySlug": "san-diego",
+    "compensation": "$500", "compensationRange": { "min": 400, "max": 600 },
+    "description": "Test a new wearable fitness tracker's accuracy against clinical-grade devices during various exercise protocols.",
+    "provider": "Pinnacle Research Group", "providerSlug": "pinnacle-research-group",
+    "type": "product-testing", "status": "active", "featured": true, "isRemote": false,
+    "postedDate": "2026-06-14", "url": "/opportunities/wearable-fitness-tracker-accuracy"
+  },
+  {
+    "id": "17", "title": "Sleep Quality and Cognitive Function Study", "slug": "sleep-quality-cognitive-function",
+    "category": "Medical Studies", "categorySlug": "medical-studies",
+    "state": "Washington", "stateSlug": "washington", "city": "Seattle", "citySlug": "seattle",
+    "compensation": "$450", "compensationRange": { "min": 350, "max": 550 },
+    "description": "An overnight study examining the relationship between sleep quality and next-day cognitive performance.",
+    "provider": "Pacific Northwest Nutrition Research", "providerSlug": "pacific-northwest-nutrition-research",
+    "type": "medical-study", "status": "upcoming", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-11", "url": "/opportunities/sleep-quality-cognitive-function"
+  },
+  {
+    "id": "18", "title": "Plant-Based Protein Taste Test", "slug": "plant-based-protein-taste-test",
+    "category": "Product Testing", "categorySlug": "product-testing",
+    "state": "New York", "stateSlug": "new-york", "city": "New York City", "citySlug": "new-york-city",
+    "compensation": "$60", "compensationRange": { "min": 50, "max": 75 },
+    "description": "Sample five new plant-based protein products and rate them on taste, texture, and appearance.",
+    "provider": "Consumer Insights Lab", "providerSlug": "consumer-insights-lab",
+    "type": "product-testing", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-09", "url": "/opportunities/plant-based-protein-taste-test"
+  },
+  {
+    "id": "19", "title": "Remote Cognitive Training Study", "slug": "remote-cognitive-training",
+    "category": "Cognitive Studies", "categorySlug": "cognitive-studies",
+    "state": "Remote", "stateSlug": "remote", "city": "Remote", "citySlug": "remote",
+    "compensation": "$100", "compensationRange": { "min": 75, "max": 125 },
+    "description": "Participate in a 2-week cognitive training program from home using a mobile app. Earn up to $100.",
+    "provider": "Northwestern Cognitive Science Lab", "providerSlug": "northwestern-cognitive-science-lab",
+    "type": "medical-study", "status": "active", "featured": false, "isRemote": true,
+    "postedDate": "2026-06-07", "url": "/opportunities/remote-cognitive-training"
+  },
+  {
+    "id": "20", "title": "Type 2 Diabetes Medication Adherence Study", "slug": "diabetes-medication-adherence",
+    "category": "Clinical Trials", "categorySlug": "clinical-trials",
+    "state": "Florida", "stateSlug": "florida", "city": "Orlando", "citySlug": "orlando",
+    "compensation": "$1,200", "compensationRange": { "min": 1000, "max": 1400 },
+    "description": "A 6-month study examining factors that influence medication adherence in adults with Type 2 diabetes.",
+    "provider": "Southwest Medical Research", "providerSlug": "southwest-medical-research",
+    "type": "clinical-trial", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-06", "url": "/opportunities/diabetes-medication-adherence"
+  },
+  {
+    "id": "21", "title": "Consumer Perception of Electric Vehicles", "slug": "consumer-perception-electric-vehicles",
+    "category": "Focus Groups", "categorySlug": "focus-groups",
+    "state": "California", "stateSlug": "california", "city": "San Francisco", "citySlug": "san-francisco",
+    "compensation": "$175", "compensationRange": { "min": 150, "max": 200 },
+    "description": "Discuss your attitudes toward electric vehicles, charging infrastructure, and purchase considerations.",
+    "provider": "Market Insights Inc.", "providerSlug": "market-insights-inc",
+    "type": "focus-group", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-25", "url": "/opportunities/consumer-perception-electric-vehicles"
+  },
+  {
+    "id": "22", "title": "At-Home Skincare Product Test", "slug": "at-home-skincare-product-test",
+    "category": "Product Testing", "categorySlug": "product-testing",
+    "state": "Pennsylvania", "stateSlug": "pennsylvania", "city": "Philadelphia", "citySlug": "philadelphia",
+    "compensation": "$120", "compensationRange": { "min": 100, "max": 140 },
+    "description": "Test a new skincare line at home for two weeks and provide daily feedback via a mobile app.",
+    "provider": "Consumer Insights Lab", "providerSlug": "consumer-insights-lab",
+    "type": "product-testing", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-24", "url": "/opportunities/at-home-skincare-product-test"
+  },
+  {
+    "id": "23", "title": "Blood Pressure Monitoring Device Trial", "slug": "blood-pressure-monitoring-device-trial",
+    "category": "Clinical Trials", "categorySlug": "clinical-trials",
+    "state": "Texas", "stateSlug": "texas", "city": "Dallas", "citySlug": "dallas",
+    "compensation": "$850", "compensationRange": { "min": 700, "max": 1000 },
+    "description": "Test a new continuous blood pressure monitoring device over a 2-week period with clinic visits.",
+    "provider": "Southwest Medical Research", "providerSlug": "southwest-medical-research",
+    "type": "clinical-trial", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-23", "url": "/opportunities/blood-pressure-monitoring-device-trial"
+  },
+  {
+    "id": "24", "title": "Online Survey: Workplace Satisfaction 2026", "slug": "survey-workplace-satisfaction-2026",
+    "category": "Online Surveys", "categorySlug": "online-surveys",
+    "state": "Remote", "stateSlug": "remote", "city": "Remote", "citySlug": "remote",
+    "compensation": "$10", "compensationRange": { "min": 5, "max": 15 },
+    "description": "A 5-minute survey about workplace culture, job satisfaction, and remote work preferences.",
+    "provider": "OpinionLab", "providerSlug": "opinionlab",
+    "type": "survey", "status": "active", "featured": false, "isRemote": true,
+    "postedDate": "2026-06-22", "url": "/opportunities/survey-workplace-satisfaction-2026"
+  },
+  {
+    "id": "25", "title": "Mock Jury: Insurance Bad Faith Case", "slug": "mock-jury-insurance-bad-faith",
+    "category": "Mock Juries", "categorySlug": "mock-juries",
+    "state": "Illinois", "stateSlug": "illinois", "city": "Chicago", "citySlug": "chicago",
+    "compensation": "$275", "compensationRange": { "min": 225, "max": 325 },
+    "description": "Evaluate evidence in an insurance bad faith lawsuit and render a mock verdict. Half-day session.",
+    "provider": "TrialWise Consulting", "providerSlug": "trialwise-consulting",
+    "type": "mock-jury", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-21", "url": "/opportunities/mock-jury-insurance-bad-faith"
+  },
+  {
+    "id": "26", "title": "Keto Diet Adherence and Metabolic Markers Study", "slug": "keto-diet-metabolic-markers",
+    "category": "Diet & Nutrition", "categorySlug": "diet-nutrition",
+    "state": "Washington", "stateSlug": "washington", "city": "Seattle", "citySlug": "seattle",
+    "compensation": "$750", "compensationRange": { "min": 600, "max": 900 },
+    "description": "An 8-week dietary intervention study examining the effects of a ketogenic diet on metabolic health markers.",
+    "provider": "Pacific Northwest Nutrition Research", "providerSlug": "pacific-northwest-nutrition-research",
+    "type": "medical-study", "status": "upcoming", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-20", "url": "/opportunities/keto-diet-metabolic-markets"
+  },
+  {
+    "id": "27", "title": "Smartphone Camera Feature Evaluation", "slug": "smartphone-camera-feature-evaluation",
+    "category": "Product Testing", "categorySlug": "product-testing",
+    "state": "Texas", "stateSlug": "texas", "city": "Austin", "citySlug": "austin",
+    "compensation": "$250", "compensationRange": { "min": 200, "max": 300 },
+    "description": "Test photography features on a pre-release smartphone and compare image quality against leading models.",
+    "provider": "HealthTech Research Group", "providerSlug": "healthtech-research-group",
+    "type": "product-testing", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-19", "url": "/opportunities/smartphone-camera-feature-evaluation"
+  },
+  {
+    "id": "28", "title": "Anxiety and Stress Management Research Study", "slug": "anxiety-stress-management-research",
+    "category": "Cognitive Studies", "categorySlug": "cognitive-studies",
+    "state": "New York", "stateSlug": "new-york", "city": "New York City", "citySlug": "new-york-city",
+    "compensation": "$200", "compensationRange": { "min": 150, "max": 250 },
+    "description": "Participate in a 4-week study evaluating digital mindfulness interventions for stress reduction.",
+    "provider": "Northwestern Cognitive Science Lab", "providerSlug": "northwestern-cognitive-science-lab",
+    "type": "medical-study", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-18", "url": "/opportunities/anxiety-stress-management-research"
+  },
+  {
+    "id": "29", "title": "Focus Group: Pet Food Buying Behavior", "slug": "focus-group-pet-food-buying",
+    "category": "Focus Groups", "categorySlug": "focus-groups",
+    "state": "North Carolina", "stateSlug": "north-carolina", "city": "Charlotte", "citySlug": "charlotte",
+    "compensation": "$125", "compensationRange": { "min": 100, "max": 150 },
+    "description": "Share your pet food purchasing decisions and brand preferences in a 90-minute group discussion.",
+    "provider": "Atlanta Consumer Research Group", "providerSlug": "atlanta-consumer-research-group",
+    "type": "focus-group", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-17", "url": "/opportunities/focus-group-pet-food-buying"
+  },
+  {
+    "id": "30", "title": "Phase 1 Trial: New Migraine Treatment", "slug": "phase-1-migraine-treatment-trial",
+    "category": "Clinical Trials", "categorySlug": "clinical-trials",
+    "state": "Ohio", "stateSlug": "ohio", "city": "Cleveland", "citySlug": "cleveland",
+    "compensation": "$2,500", "compensationRange": { "min": 2000, "max": 3000 },
+    "description": "A Phase 1 safety study of a novel acute migraine treatment. Includes 2 overnight stays and 3 follow-up visits.",
+    "provider": "Midwest Clinical Research Center", "providerSlug": "midwest-clinical-research-center",
+    "type": "clinical-trial", "status": "active", "featured": true, "isRemote": false,
+    "postedDate": "2026-06-16", "url": "/opportunities/phase-1-migraine-treatment-trial"
+  },
+  {
+    "id": "31", "title": "Online Survey: Consumer Electronics Preferences", "slug": "survey-consumer-electronics-2026",
+    "category": "Online Surveys", "categorySlug": "online-surveys",
+    "state": "Remote", "stateSlug": "remote", "city": "Remote", "citySlug": "remote",
+    "compensation": "$20", "compensationRange": { "min": 15, "max": 25 },
+    "description": "Share your preferences on laptops, tablets, and smart home devices in a 15-minute survey.",
+    "provider": "OpinionLab", "providerSlug": "opinionlab",
+    "type": "survey", "status": "active", "featured": false, "isRemote": true,
+    "postedDate": "2026-06-15", "url": "/opportunities/survey-consumer-electronics-2026"
+  },
+  {
+    "id": "32", "title": "Mock Jury: Intellectual Property Dispute", "slug": "mock-jury-intellectual-property",
+    "category": "Mock Juries", "categorySlug": "mock-juries",
+    "state": "New York", "stateSlug": "new-york", "city": "New York City", "citySlug": "new-york-city",
+    "compensation": "$350", "compensationRange": { "min": 300, "max": 400 },
+    "description": "Full-day mock jury session evaluating a patent infringement case between two major technology companies.",
+    "provider": "TrialWise Consulting", "providerSlug": "trialwise-consulting",
+    "type": "mock-jury", "status": "upcoming", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-14", "url": "/opportunities/mock-jury-intellectual-property"
+  },
+  {
+    "id": "33", "title": "Dietary Fiber and Gut Health Study", "slug": "dietary-fiber-gut-health",
+    "category": "Diet & Nutrition", "categorySlug": "diet-nutrition",
+    "state": "Minnesota", "stateSlug": "minnesota", "city": "Minneapolis", "citySlug": "minneapolis",
+    "compensation": "$400", "compensationRange": { "min": 300, "max": 500 },
+    "description": "A 3-week dietary intervention study examining the effects of soluble fiber on gut microbiome diversity.",
+    "provider": "Midwest Clinical Research Center", "providerSlug": "midwest-clinical-research-center",
+    "type": "medical-study", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-13", "url": "/opportunities/dietary-fiber-gut-health"
+  },
+  {
+    "id": "34", "title": "Virtual Reality Shopping Experience Test", "slug": "virtual-reality-shopping-test",
+    "category": "Product Testing", "categorySlug": "product-testing",
+    "state": "California", "stateSlug": "california", "city": "San Jose", "citySlug": "san-jose",
+    "compensation": "$200", "compensationRange": { "min": 150, "max": 250 },
+    "description": "Test a VR-based e-commerce platform and evaluate the shopping experience, navigation, and visual quality.",
+    "provider": "HealthTech Research Group", "providerSlug": "healthtech-research-group",
+    "type": "product-testing", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-12", "url": "/opportunities/virtual-reality-shopping-test"
+  },
+  {
+    "id": "35", "title": "Late-Stage Clinical Trial: Cholesterol Medication", "slug": "late-stage-cholesterol-medication",
+    "category": "Clinical Trials", "categorySlug": "clinical-trials",
+    "state": "Arizona", "stateSlug": "arizona", "city": "Phoenix", "citySlug": "phoenix",
+    "compensation": "$1,800", "compensationRange": { "min": 1500, "max": 2100 },
+    "description": "A 6-month Phase 3 trial evaluating a new once-monthly injectable cholesterol-lowering medication.",
+    "provider": "Pinnacle Research Group", "providerSlug": "pinnacle-research-group",
+    "type": "clinical-trial", "status": "active", "featured": true, "isRemote": false,
+    "postedDate": "2026-06-11", "url": "/opportunities/late-stage-cholesterol-medication"
+  },
+  {
+    "id": "36", "title": "Focus Group: Telehealth Service Satisfaction", "slug": "focus-group-telehealth-satisfaction",
+    "category": "Focus Groups", "categorySlug": "focus-groups",
+    "state": "Maryland", "stateSlug": "maryland", "city": "Baltimore", "citySlug": "baltimore",
+    "compensation": "$150", "compensationRange": { "min": 125, "max": 175 },
+    "description": "Discuss your experiences with telehealth services and what improvements you would like to see.",
+    "provider": "National Health Research Institute", "providerSlug": "national-health-research-institute",
+    "type": "focus-group", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-10", "url": "/opportunities/focus-group-telehealth-satisfaction"
+  },
+  {
+    "id": "37", "title": "Online Survey: Banking App User Experience", "slug": "survey-banking-app-ux",
+    "category": "Online Surveys", "categorySlug": "online-surveys",
+    "state": "Remote", "stateSlug": "remote", "city": "Remote", "citySlug": "remote",
+    "compensation": "$12", "compensationRange": { "min": 10, "max": 15 },
+    "description": "A 5-minute survey about your experience with mobile banking apps and desired features.",
+    "provider": "OpinionLab", "providerSlug": "opinionlab",
+    "type": "survey", "status": "active", "featured": false, "isRemote": true,
+    "postedDate": "2026-06-09", "url": "/opportunities/survey-banking-app-ux"
+  },
+  {
+    "id": "38", "title": "Alcohol Consumption and Decision Making Study", "slug": "alcohol-consumption-decision-making",
+    "category": "Cognitive Studies", "categorySlug": "cognitive-studies",
+    "state": "Illinois", "stateSlug": "illinois", "city": "Chicago", "citySlug": "chicago",
+    "compensation": "$250", "compensationRange": { "min": 200, "max": 300 },
+    "description": "A behavioral economics study examining how alcohol consumption affects risk-taking and decision-making.",
+    "provider": "Northwestern Cognitive Science Lab", "providerSlug": "northwestern-cognitive-science-lab",
+    "type": "medical-study", "status": "filled", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-04", "url": "/opportunities/alcohol-consumption-decision-making"
+  },
+  {
+    "id": "39", "title": "New Breakfast Cereal Consumer Test", "slug": "breakfast-cereal-consumer-test",
+    "category": "Product Testing", "categorySlug": "product-testing",
+    "state": "Georgia", "stateSlug": "georgia", "city": "Atlanta", "citySlug": "atlanta",
+    "compensation": "$50", "compensationRange": { "min": 40, "max": 60 },
+    "description": "Sample three new breakfast cereal formulations and complete a 30-minute taste and texture evaluation.",
+    "provider": "Atlanta Consumer Research Group", "providerSlug": "atlanta-consumer-research-group",
+    "type": "product-testing", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-03", "url": "/opportunities/breakfast-cereal-consumer-test"
+  },
+  {
+    "id": "40", "title": "Post-Trial Survey: Diabetes App Follow-Up", "slug": "post-trial-diabetes-app-followup",
+    "category": "Online Surveys", "categorySlug": "online-surveys",
+    "state": "Remote", "stateSlug": "remote", "city": "Remote", "citySlug": "remote",
+    "compensation": "$20", "compensationRange": { "min": 15, "max": 25 },
+    "description": "A follow-up survey for participants who completed the Diabetes Management App study 3 months ago.",
+    "provider": "HealthTech Research Group", "providerSlug": "healthtech-research-group",
+    "type": "survey", "status": "active", "featured": false, "isRemote": true,
+    "postedDate": "2026-06-02", "url": "/opportunities/post-trial-diabetes-app-followup"
+  },
+  {
+    "id": "41", "title": "Mock Jury: Employment Discrimination Case", "slug": "mock-jury-employment-discrimination",
+    "category": "Mock Juries", "categorySlug": "mock-juries",
+    "state": "Florida", "stateSlug": "florida", "city": "Tampa", "citySlug": "tampa",
+    "compensation": "$200", "compensationRange": { "min": 175, "max": 225 },
+    "description": "Serve as a mock juror in an employment discrimination case. Half-day session with compensation.",
+    "provider": "Legal Research Associates", "providerSlug": "legal-research-associates",
+    "type": "mock-jury", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-06-01", "url": "/opportunities/mock-jury-employment-discrimination"
+  },
+  {
+    "id": "42", "title": "Remote Focus Group: Home Fitness Trends", "slug": "remote-focus-group-home-fitness",
+    "category": "Focus Groups", "categorySlug": "focus-groups",
+    "state": "Remote", "stateSlug": "remote", "city": "Remote", "citySlug": "remote",
+    "compensation": "$100", "compensationRange": { "min": 80, "max": 120 },
+    "description": "Join a virtual focus group discussing home fitness equipment, workout apps, and exercise habits.",
+    "provider": "Youth Research Collective", "providerSlug": "youth-research-collective",
+    "type": "focus-group", "status": "active", "featured": false, "isRemote": true,
+    "postedDate": "2026-05-30", "url": "/opportunities/remote-focus-group-home-fitness"
+  },
+  {
+    "id": "43", "title": "Omega-3 Supplement and Joint Health Trial", "slug": "omega-3-joint-health-trial",
+    "category": "Diet & Nutrition", "categorySlug": "diet-nutrition",
+    "state": "Colorado", "stateSlug": "colorado", "city": "Denver", "citySlug": "denver",
+    "compensation": "$500", "compensationRange": { "min": 400, "max": 600 },
+    "description": "A 12-week double-blind trial examining the effects of high-dose omega-3 supplements on joint pain and mobility.",
+    "provider": "Denver Health Research Center", "providerSlug": "denver-health-research-center",
+    "type": "clinical-trial", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-05-28", "url": "/opportunities/omega-3-joint-health-trial"
+  },
+  {
+    "id": "44", "title": "Mobile Payment App Security Perception Study", "slug": "mobile-payment-security-perception",
+    "category": "Focus Groups", "categorySlug": "focus-groups",
+    "state": "Virginia", "stateSlug": "virginia", "city": "Richmond", "citySlug": "richmond",
+    "compensation": "$130", "compensationRange": { "min": 100, "max": 160 },
+    "description": "Discuss your perceptions of mobile payment security, trust in fintech companies, and privacy concerns.",
+    "provider": "Market Insights Inc.", "providerSlug": "market-insights-inc",
+    "type": "focus-group", "status": "active", "featured": false, "isRemote": false,
+    "postedDate": "2026-05-25", "url": "/opportunities/mobile-payment-security-perception"
+  },
+  {
+    "id": "45", "title": "Pediatric Asthma Medication Adherence Study", "slug": "pediatric-asthma-adherence-study",
+    "category": "Medical Studies", "categorySlug": "medical-studies",
+    "state": "Massachusetts", "stateSlug": "massachusetts", "city": "Boston", "citySlug": "boston",
+    "compensation": "$600", "compensationRange": { "min": 500, "max": 700 },
+    "description": "A 3-month observational study examining medication adherence patterns in children with asthma using smart inhalers.",
+    "provider": "Boston Biomedical Research Institute", "providerSlug": "boston-biomedical-research-institute",
+    "type": "medical-study", "status": "upcoming", "featured": false, "isRemote": false,
+    "postedDate": "2026-05-22", "url": "/opportunities/pediatric-asthma-adherence-study"
+  }
+]

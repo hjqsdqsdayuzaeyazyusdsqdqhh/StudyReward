@@ -1,0 +1,41 @@
+import { Skeleton } from "@/components/ui/skeleton"
+
+export default function Loading() {
+  return (
+    <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
+      <Skeleton className="mb-6 h-5 w-48" />
+      <Skeleton className="mb-4 h-10 w-72" />
+      <Skeleton className="mb-4 h-5 w-full max-w-xl" />
+      <div className="mb-6 flex gap-2">
+        <Skeleton className="h-6 w-28 rounded-full" />
+        <Skeleton className="h-6 w-24 rounded-full" />
+      </div>
+      <div className="flex flex-col gap-8 lg:flex-row">
+        <aside className="w-full shrink-0 lg:w-64" aria-label="Loading sidebar">
+          <Skeleton className="mb-6 h-80 w-full rounded-lg" />
+        </aside>
+        <div className="min-w-0 flex-1">
+          <div className="grid gap-5 sm:grid-cols-2">
+            {Array.from({ length: 4 }, (_, i) => (
+              <div key={i} className="rounded-lg border bg-card">
+                <div className="p-6">
+                  <Skeleton className="mb-3 h-5 w-3/4" />
+                  <Skeleton className="mb-2 h-4 w-1/3" />
+                  <Skeleton className="mb-6 h-4 w-full" />
+                  <div className="flex gap-4">
+                    <Skeleton className="h-4 w-28" />
+                    <Skeleton className="h-4 w-20" />
+                    <Skeleton className="h-4 w-32" />
+                  </div>
+                </div>
+                <div className="border-t p-4">
+                  <Skeleton className="h-9 w-full rounded-lg" />
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  )
+}
