@@ -1,4 +1,4 @@
-import type { Opportunity } from "@/generated/prisma/client"
+import type { Opportunity } from "@prisma/client"
 import type { OpportunityRepository } from "@/lib/repositories/opportunity"
 import type { NormalizedClinicalTrial } from "./types"
 import { NormalizedClinicalTrialSchema } from "./types"

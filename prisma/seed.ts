@@ -1,7 +1,7 @@
 import "dotenv/config"
 import { Pool } from "pg"
 import { PrismaPg } from "@prisma/adapter-pg"
-import { PrismaClient, type CompensationType, type OpportunityStatus } from "../src/generated/prisma/client"
+import { PrismaClient, type CompensationType, type OpportunityStatus } from "@prisma/client"
 import * as fs from "node:fs"
 import * as path from "node:path"
 

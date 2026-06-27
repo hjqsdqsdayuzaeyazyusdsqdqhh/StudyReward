@@ -1,5 +1,5 @@
 import { BaseRepository } from "./base"
-import type { StudyType } from "@/generated/prisma/client"
+import type { StudyType } from "@prisma/client"
 import type { IRepository } from "../interfaces/repository"
 import type { PaginatedResult, PaginationParams, SearchParams } from "../types/pagination"
 

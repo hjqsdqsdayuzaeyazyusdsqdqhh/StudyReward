@@ -1,5 +1,5 @@
 import type { IService } from "../interfaces/service"
-import type { City } from "@/generated/prisma/client"
+import type { City } from "@prisma/client"
 import type { CityRepository, CreateCityInput, UpdateCityInput } from "../repositories/city"
 import { NotFoundError } from "../errors/not-found"
 import { ValidationError } from "../errors/validation"

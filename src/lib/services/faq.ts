@@ -1,5 +1,5 @@
 import type { IService } from "../interfaces/service"
-import type { FAQ } from "@/generated/prisma/client"
+import type { FAQ } from "@prisma/client"
 import type { FAQRepository, CreateFAQInput, UpdateFAQInput } from "../repositories/faq"
 import { NotFoundError } from "../errors/not-found"
 import { ValidationError } from "../errors/validation"

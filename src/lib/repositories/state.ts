@@ -1,6 +1,6 @@
 import { BaseRepository } from "./base"
 import { NotFoundError } from "../errors/not-found"
-import type { State } from "@/generated/prisma/client"
+import type { State } from "@prisma/client"
 import type { IRepository } from "../interfaces/repository"
 import type { PaginatedResult, PaginationParams, SearchParams } from "../types/pagination"
 

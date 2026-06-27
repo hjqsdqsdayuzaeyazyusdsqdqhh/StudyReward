@@ -1,5 +1,5 @@
 import type { IService } from "../interfaces/service"
-import type { StudyType } from "@/generated/prisma/client"
+import type { StudyType } from "@prisma/client"
 import type { StudyTypeRepository, CreateStudyTypeInput, UpdateStudyTypeInput } from "../repositories/study-type"
 import { NotFoundError } from "../errors/not-found"
 import { ValidationError } from "../errors/validation"

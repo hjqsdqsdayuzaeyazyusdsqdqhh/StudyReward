@@ -1,5 +1,5 @@
 import type { IService } from "../interfaces/service"
-import type { Tag } from "@/generated/prisma/client"
+import type { Tag } from "@prisma/client"
 import type { TagRepository, CreateTagInput, UpdateTagInput } from "../repositories/tag"
 import { NotFoundError } from "../errors/not-found"
 import { ValidationError } from "../errors/validation"

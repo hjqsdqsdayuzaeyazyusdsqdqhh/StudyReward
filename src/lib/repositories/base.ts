@@ -2,7 +2,7 @@ import { logger } from "../utils/logger"
 import { DatabaseError } from "../errors/database"
 import type { PaginatedResult } from "../types/pagination"
 import type { PaginationParams } from "../types/pagination"
-import type { PrismaClient } from "@/generated/prisma/client"
+import type { PrismaClient } from "@prisma/client"
 
 export abstract class BaseRepository {
   constructor(protected readonly prisma: PrismaClient) {}

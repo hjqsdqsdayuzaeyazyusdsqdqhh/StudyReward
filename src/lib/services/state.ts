@@ -1,5 +1,5 @@
 import type { IService } from "../interfaces/service"
-import type { State } from "@/generated/prisma/client"
+import type { State } from "@prisma/client"
 import type { StateRepository, CreateStateInput, UpdateStateInput } from "../repositories/state"
 import { NotFoundError } from "../errors/not-found"
 import { ValidationError } from "../errors/validation"

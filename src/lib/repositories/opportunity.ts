@@ -1,5 +1,5 @@
 import { BaseRepository } from "./base"
-import type { Opportunity } from "@/generated/prisma/client"
+import type { Opportunity } from "@prisma/client"
 import type { IRepository } from "../interfaces/repository"
 import type { PaginatedResult, PaginationParams, SearchParams } from "../types/pagination"
 

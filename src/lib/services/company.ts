@@ -1,5 +1,5 @@
 import type { IService } from "../interfaces/service"
-import type { Company } from "@/generated/prisma/client"
+import type { Company } from "@prisma/client"
 import type { CompanyRepository, CreateCompanyInput, UpdateCompanyInput } from "../repositories/company"
 import { NotFoundError } from "../errors/not-found"
 import { ValidationError } from "../errors/validation"

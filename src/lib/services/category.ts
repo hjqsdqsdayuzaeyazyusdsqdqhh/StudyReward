@@ -1,5 +1,5 @@
 import type { IService } from "../interfaces/service"
-import type { Category } from "@/generated/prisma/client"
+import type { Category } from "@prisma/client"
 import type { CategoryRepository, CreateCategoryInput, UpdateCategoryInput } from "../repositories/category"
 import { NotFoundError } from "../errors/not-found"
 import { ValidationError } from "../errors/validation"

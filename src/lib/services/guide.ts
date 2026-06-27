@@ -1,5 +1,5 @@
 import type { IService } from "../interfaces/service"
-import type { Guide } from "@/generated/prisma/client"
+import type { Guide } from "@prisma/client"
 import type { GuideRepository, CreateGuideInput, UpdateGuideInput } from "../repositories/guide"
 import { NotFoundError } from "../errors/not-found"
 import { ValidationError } from "../errors/validation"

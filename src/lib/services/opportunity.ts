@@ -1,5 +1,5 @@
 import type { IService } from "../interfaces/service"
-import type { Opportunity } from "@/generated/prisma/client"
+import type { Opportunity } from "@prisma/client"
 import type {
   OpportunityRepository,
   CreateOpportunityInput,
